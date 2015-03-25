@@ -11,4 +11,4 @@ Here is the title screen:
 ![screenshot1](https://github.com/Sam-Opdahl/Zombie-Shooter/blob/master/screenshot1.png)
 
 and here is some gameplay:
-![screenshots2](https://github.com/Sam-Opdahl/Zombie-Shooter/blob/master/screenshot1.png)
+![screenshots2](https://github.com/Sam-Opdahl/Zombie-Shooter/blob/master/screenshot2.png)
