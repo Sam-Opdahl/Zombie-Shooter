@@ -1,7 +1,7 @@
 # Zombie-Shooter
 2D top-down zombie shooting game
 
-This is a game create using C# and the XNA Framework and uses [Tiled](http://www.mapeditor.org/) map editor.
+This is a game created using C# and the XNA Framework. This project also makes used of [Tiled](http://www.mapeditor.org/) map editor.
 
 I used [this](http://mxa.codeplex.com/releases/view/117564) project to develop and run the game on Windows 8.
 
